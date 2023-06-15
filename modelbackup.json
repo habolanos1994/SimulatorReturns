@@ -1,0 +1,1459 @@
+{
+  "models": [
+    {
+      "model": "HOPPER with SLING CR",
+      "code": "XJ",
+      "location": "ELP_2"
+    },
+    {
+      "model": "Hopper3",
+      "code": "XP",
+      "location": "ELP_2"
+    },
+    {
+      "model": "HOPPERDUO",
+      "code": "XT",
+      "location": "ELP_2"
+    },
+    {
+      "model": "ViP722 w/DN241 Chip",
+      "code": "RK",
+      "location": "ELP_4"
+    },
+    {
+      "model": "ViP722 w/DN241 Card",
+      "code": "RP",
+      "location": "ELP_4"
+    },
+    {
+      "model": "ViP722K w/ DN552 Chip (LF Main Board)",
+      "code": "KE",
+      "location": "ELP_4"
+    },
+    {
+      "model": "Hopper with Sling",
+      "code": "XD",
+      "location": "ELP_4"
+    },
+    {
+      "model": "ViP722i",
+      "code": "KB",
+      "location": "ELP_4"
+    },
+    {
+      "model": "WALLY",
+      "code": "XN",
+      "location": "ELP_4"
+    },
+    {
+      "model": "VIP711I",
+      "code": "KB",
+      "location": "ELP_4"
+    },
+    {
+      "model": "ViP211k",
+      "code": "RG",
+      "location": "ELP_5"
+    },
+    {
+      "model": "ViP211k (LF Main Board)",
+      "code": "RV",
+      "location": "ELP_5"
+    },
+    {
+      "model": "ViP211k w/DN241 Card",
+      "code": "RY",
+      "location": "ELP_5"
+    },
+    {
+      "model": "ViP211K (LF Main Board) w/ DN241 Card",
+      "code": "RZ",
+      "location": "ELP_5"
+    },
+    {
+      "model": "ViP211k",
+      "code": "AE",
+      "location": "ELP_5"
+    },
+    {
+      "model": "ViP211k (LF Main Board)",
+      "code": "AF",
+      "location": "ELP_5"
+    },
+    {
+      "model": "JOEY3.0",
+      "code": "XS",
+      "location": "ELP_5"
+    },
+    {
+      "model": "Joey CR",
+      "code": "XF",
+      "location": "ELP_7"
+    },
+    {
+      "model": "Hopper Plus",
+      "code": "WS",
+      "location": "ELP_7"
+    },
+    {
+      "model": "WIFIJOEY4",
+      "code": "XU",
+      "location": "ELP_7"
+    },
+    {
+      "model": "JOEY4.0",
+      "code": "XV",
+      "location": "ELP_7"
+    },
+    {
+      "model": "ViP722",
+      "code": "RJ",
+      "location": "ELP_8"
+    },
+    {
+      "model": "ViP722k DVR",
+      "code": "RM",
+      "location": "ELP_8"
+    },
+    {
+      "model": "ViP722k OTA Module",
+      "code": "RR",
+      "location": "ELP_8"
+    },
+    {
+      "model": "ViP722k (LF Main Board)",
+      "code": "R5",
+      "location": "ELP_8"
+    },
+    {
+      "model": "ViP722k DVR (LF Main Board) w/ DN241 Card",
+      "code": "KC",
+      "location": "ELP_8"
+    },
+    {
+      "model": "ViP722k",
+      "code": "AL",
+      "location": "ELP_8"
+    },
+    {
+      "model": "ViP722k (LF Main Board)",
+      "code": "AM",
+      "location": "ELP_8"
+    },
+    {
+      "model": "Wireless Joey",
+      "code": "XG",
+      "location": "ELP_8"
+    },
+    {
+      "model": "4kJoey",
+      "code": "XM",
+      "location": "ELP_8"
+    },
+    {
+      "model": "(Other - Requires Comments)",
+      "code": null,
+      "location": "ELP_10"
+    },
+    {
+      "model": "Able UHF",
+      "code": "AB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "2150",
+      "code": null,
+      "location": "ELP_10"
+    },
+    {
+      "model": "2200",
+      "code": null,
+      "location": "ELP_10"
+    },
+    {
+      "model": "3200",
+      "code": null,
+      "location": "ELP_10"
+    },
+    {
+      "model": "3000/3500",
+      "code": "BI",
+      "location": "ELP_10"
+    },
+    {
+      "model": "3500",
+      "code": "BI",
+      "location": "ELP_10"
+    },
+    {
+      "model": "4000/4500",
+      "code": "BU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "4500",
+      "code": "BU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "5000/5500",
+      "code": "BT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "5500",
+      "code": "BT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "1000",
+      "code": "BN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "2700",
+      "code": "CA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "2800",
+      "code": "CV",
+      "location": "ELP_10"
+    },
+    {
+      "model": "3700",
+      "code": "CM",
+      "location": "ELP_10"
+    },
+    {
+      "model": "3800",
+      "code": "CN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "5400 (DVD)",
+      "code": "CD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "3900",
+      "code": "CP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "4700",
+      "code": "CU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "4900",
+      "code": "CT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 111",
+      "code": "JA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 311",
+      "code": "DM",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Able IR",
+      "code": "AI",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 522",
+      "code": "GA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 811",
+      "code": "LA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 921",
+      "code": "HE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 301 - D",
+      "code": "DA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322D",
+      "code": "DN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 510 - D",
+      "code": "DR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishDVR 501 - D",
+      "code": "DC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishDVR 721",
+      "code": "HA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPro 301 - E",
+      "code": "EA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "6000",
+      "code": "CH",
+      "location": "ELP_10"
+    },
+    {
+      "model": "6000U",
+      "code": "CK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishDVR 508 - D",
+      "code": "DD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "IRR",
+      "code": "BJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "3750",
+      "code": "CR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "7100",
+      "code": "BW",
+      "location": "ELP_10"
+    },
+    {
+      "model": "7200",
+      "code": "BP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "2700",
+      "code": "CL",
+      "location": "ELP_10"
+    },
+    {
+      "model": "6100",
+      "code": "CJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "6100U",
+      "code": "CW",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SkyVista/Racing Network",
+      "code": null,
+      "location": "ELP_10"
+    },
+    {
+      "model": "QAM 3750",
+      "code": "CR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322G",
+      "code": "GC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 351",
+      "code": "LB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 942",
+      "code": "MA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 522 w/160GB",
+      "code": "GG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 625",
+      "code": "GJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "351",
+      "code": "LB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "642",
+      "code": "NA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322G RC",
+      "code": "GD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Portable Video Player (2.2\")",
+      "code": "QA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Portable Video Player (4.0\")",
+      "code": "QB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Portable Video Player (7.0\")",
+      "code": "QC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 411",
+      "code": "RA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP211",
+      "code": "RC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP622 DVR",
+      "code": "RB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "3100",
+      "code": "EA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 781",
+      "code": "HG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 381",
+      "code": "LC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222",
+      "code": "VA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AT&amp;T HomeZone (2042 - HD)",
+      "code": "PA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AT&amp;T HomeZone (1022 - SD)",
+      "code": "PB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "WildBlue SM2000",
+      "code": "QD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "WildBlue SM2100",
+      "code": "QE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 211",
+      "code": "DP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Express Vu 4100",
+      "code": "JG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 642",
+      "code": "NA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AT&amp;T 622HZ DVR",
+      "code": "RH",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Q-Box",
+      "code": "SA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP612",
+      "code": "WA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP213W",
+      "code": "WB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322G RC w/DN241 Chip",
+      "code": "GK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 625 w/DN241 Chip",
+      "code": "GL",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222 w/DN241 Chip",
+      "code": "VB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AT&amp;T 622HZ DVR w/DN241 Chip",
+      "code": "RL",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k",
+      "code": "RN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "TR-50",
+      "code": "TA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "TR-50 DVR",
+      "code": "TB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DTVPal/TR-40CRA",
+      "code": "TC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 311 w/DN241 Card",
+      "code": "DQ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 522 w/DN241 Card",
+      "code": "GE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322G w/DN241 Card",
+      "code": "GN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322G RC w/DN241 Card",
+      "code": "GP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 522 w/160GB w/DN241 Card",
+      "code": "GH",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 625 w/DN241 Card",
+      "code": "GM",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 811 w/DN241 Card",
+      "code": "LD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 351 w/DN241 Card",
+      "code": "LF",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 381 w/DN241 Card",
+      "code": "LE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AT&amp;T HomeZone (1022 - SD) w/DN241 Card",
+      "code": "PC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 411 w/DN241 Card",
+      "code": "RD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP622 DVR w/DN241 Card",
+      "code": "RE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP211 w/DN241 Card",
+      "code": "RF",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP211 w/DN241 Chip",
+      "code": "RS",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AT&amp;T 622HZ DVR w/DN241 Card",
+      "code": "RQ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222 w/DN241 Card",
+      "code": "VC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 111 w/DN241 Card",
+      "code": "JB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "4900 w/DN241 Card",
+      "code": "CB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 301 - D w/DN241 Card",
+      "code": "DB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishDVR 501 - D w/DN241 Card",
+      "code": "DE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishDVR 508 - D w/DN241 Card",
+      "code": "DF",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AT&amp;T HomeZone (2042 - HD) w/DN241 Card",
+      "code": "PD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 510 - D w/DN241 Card",
+      "code": "DG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPro 301 - E w/DN241 Card",
+      "code": "EB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "MT2, OTA Module, 2 Tuner, w/ 3/4",
+      "code": "UB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "T2, OTA Module 2 Tuner, w/o 3/4",
+      "code": "UC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "MT1, OTA Module 1 Tuner, w/ 3/4",
+      "code": "UD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "T1,  OTA Module 1 Tuner, w/o 3/4",
+      "code": "UE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "M34, OTA Module 0 Tuner, w/ 3/4",
+      "code": "UF",
+      "location": "ELP_10"
+    },
+    {
+      "model": "MQ2 OTA Module",
+      "code": "UG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 311 w/DN241 Chip",
+      "code": "DU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DTVPal Plus",
+      "code": "TD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP922",
+      "code": "XA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "EV6131",
+      "code": "RT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "WildBlue SM2101",
+      "code": "QF",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322G-1 w/DN241 Card",
+      "code": "GQ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322GRC-1 w/DN241 Card",
+      "code": "GR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 322GRC-1 w/DN241 Chip",
+      "code": "GS",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k (LF Main Board)",
+      "code": "R4",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP922 (LF Main Board)",
+      "code": "X2",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k w/DN241 Card",
+      "code": "R6",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k w/DN241 Card (LF Main Board)",
+      "code": "R7",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish Mexico M31S",
+      "code": "QG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Sling Aero",
+      "code": "QM",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Sling Aster",
+      "code": "QN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 512 w/DN241 Card",
+      "code": "GT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 512 w/DN241 Card",
+      "code": "GU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 512 w/DN241 Chip",
+      "code": "GV",
+      "location": "ELP_10"
+    },
+    {
+      "model": "1000",
+      "code": "BS",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP612 (LF Main Board)",
+      "code": "WE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish Audio Mate",
+      "code": "UA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "T2200S",
+      "code": "RU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Teluis 9241T",
+      "code": "WD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish Mexico M31B",
+      "code": "QH",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish Mexico M31T",
+      "code": "QI",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish Mexico Alta",
+      "code": "QJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Sling Adapter",
+      "code": "QP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Google TV",
+      "code": "UK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k (LF, 552 Chip)",
+      "code": "R1",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 311k (322GRC conversion) w/DN241 Chip",
+      "code": "GX",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 311k (322G conversion) w/DN241 Card",
+      "code": "GW",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dish 311k (322G conversion) w/DN241 Chip",
+      "code": "GY",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k (LF Main Board) w/ DN552 Card.",
+      "code": "KD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hopper2000",
+      "code": "XB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Joey1.0",
+      "code": "XC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DVR 512 (522 variant) 250GB HDD",
+      "code": "AD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k",
+      "code": "AG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP222k (LF Main Board)",
+      "code": "AH",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP612",
+      "code": "AJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP612 (LF Main Board)",
+      "code": "AK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP922",
+      "code": "AN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViaSat RM4100",
+      "code": "UM",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dongle",
+      "code": "UR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP211z",
+      "code": "XE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP612C",
+      "code": "SB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "IPTV STB-2300",
+      "code": "QR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "IPTV HD 2500",
+      "code": "QS",
+      "location": "ELP_10"
+    },
+    {
+      "model": "IPTV HD 2500",
+      "code": "QS",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Sling Adapter",
+      "code": "QT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Jupiter Modem",
+      "code": "QZ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Jupiter Tria",
+      "code": "QV",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Spaceway Modem",
+      "code": "QW",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Spaceway Tria",
+      "code": "QX",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Dishnet Wireline Modem",
+      "code": "QY",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Tailgater",
+      "code": "UL",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Exede SB2 Tria",
+      "code": "UN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Exede SB1 Tria",
+      "code": "UP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "CDR 100 ",
+      "code": "AC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ABA 1020 (PCI card)",
+      "code": "BC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "5400 (DVD)",
+      "code": "CD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP211i",
+      "code": "KA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Jupiter Modem (HT1100)",
+      "code": "Q2",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SUPER JOEY",
+      "code": "XK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP211z CR",
+      "code": "XL",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 16 Slot Chassis",
+      "code": "PF",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox Power Supply Blade",
+      "code": "PG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 16 Ch QAM Blade",
+      "code": "PH",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 48 ch QAM Blade",
+      "code": "PJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 96 Ch QAM Blade",
+      "code": "PK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox Mdeia Server Blade",
+      "code": "PL",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox Media Server+Blade",
+      "code": "PM",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 24 NTSC TV Blade",
+      "code": "PN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 8 ch ATSC Rcvr Blade",
+      "code": "PP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox Transcoder 8 Module",
+      "code": "PQ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox Sat Rcvr Pro Cam",
+      "code": "PR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 8 Ch Sat Rcvr Blade",
+      "code": "PS",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Panasonic Avionics 311",
+      "code": "YB",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Panasonic Avionics 211K",
+      "code": "YC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Winegard Pathway X2",
+      "code": "UW",
+      "location": "ELP_10"
+    },
+    {
+      "model": "BandRich E580-LTE Modem",
+      "code": "Q3",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ETria",
+      "code": "US",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DishPlayer DVR 625 w/DN241 Card",
+      "code": "GZ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "CMSMBRBTX",
+      "code": "PT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBOX 8 CH ATSC Blade w/ Transcoder",
+      "code": "PU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBOX SATELLITE RECEIVER PRO CAM 2.0",
+      "code": "PV",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBOX 8 CH SAT RCVR BLADE-PRO COM 2.0",
+      "code": "PW",
+      "location": "ELP_10"
+    },
+    {
+      "model": "DISHNET WIRELINE MODEL LEGACY",
+      "code": "Q4",
+      "location": "ELP_10"
+    },
+    {
+      "model": "NETWORK MEDIA PLAYER",
+      "code": "TE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "TAILGATER 2.2",
+      "code": "UT",
+      "location": "ELP_10"
+    },
+    {
+      "model": "TAILGATER 2.1",
+      "code": "UU",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 8 Ch Blade v1.1 for ProCam",
+      "code": "PY",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox 8 Ch Blade V1.1 w/ TX",
+      "code": "PZ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "HopperGO",
+      "code": "WI",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Jupiter Model HT2000",
+      "code": "Q5",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Jupiter Model HT2000W",
+      "code": "Q6",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Jupiter 2 Tria",
+      "code": "Q7",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hughes Jupiter 2W Tria",
+      "code": "Q7",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AirTV Player",
+      "code": "YD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBATSC1.1",
+      "code": "P3",
+      "location": "ELP_10"
+    },
+    {
+      "model": "9400",
+      "code": "WG",
+      "location": "ELP_10"
+    },
+    {
+      "model": "LOCOTA",
+      "code": "P8",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMARTBox8 Ch ATSC Blade",
+      "code": "P9",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Playmaker 2 (Dual Output)",
+      "code": "VK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Tailgater Pro",
+      "code": "VL",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Playmaker 2 (Single Output)",
+      "code": "WJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Lark Dual OTA Adapter",
+      "code": "WK",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AirTV 2",
+      "code": "WM",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Parkifi Sensor",
+      "code": "WN",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hopper Snap",
+      "code": "WP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Hopper Link",
+      "code": "2B",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Neutral Host Gateway",
+      "code": "2C",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Gateway Battery Box",
+      "code": "2D",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Butterfly",
+      "code": "2E",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Joey1.0",
+      "code": "BC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "MT2",
+      "code": "UC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "MT1",
+      "code": "UD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "MT1",
+      "code": "UE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "M34",
+      "code": "UF",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AIRTVMINI",
+      "code": "WQ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AIRPLY300",
+      "code": "C1",
+      "location": "ELP_10"
+    },
+    {
+      "model": "AIRTV",
+      "code": "WC",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBVIDSTR",
+      "code": "P1",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBCMTS",
+      "code": "P2",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBNTSC1.1",
+      "code": "P4",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBQA161.1",
+      "code": "P5",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBQA481.1",
+      "code": "P6",
+      "location": "ELP_10"
+    },
+    {
+      "model": "TG4",
+      "code": "UV",
+      "location": "ELP_10"
+    },
+    {
+      "model": "PLYMKESIN",
+      "code": "VJ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "HA210RDH",
+      "code": "Q8",
+      "location": "ELP_10"
+    },
+    {
+      "model": "C1100Z",
+      "code": "QQ",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Macaw",
+      "code": "WR",
+      "location": "ELP_10"
+    },
+    {
+      "model": "9500",
+      "code": "X!",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBQAM24",
+      "code": "AP",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBRCVR16",
+      "code": "PE",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBDESCMBL",
+      "code": "PD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBCHASV2",
+      "code": "PA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SBQA961.1",
+      "code": "P7",
+      "location": "ELP_10"
+    },
+    {
+      "model": "SMBRBTXP2",
+      "code": "PX",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Exede Modem",
+      "code": "71",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Exede Modem",
+      "code": "91",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Exede ModemTria",
+      "code": "01",
+      "location": "ELP_10"
+    },
+    {
+      "model": "ViP211I",
+      "code": "KA",
+      "location": "ELP_10"
+    },
+    {
+      "model": "Joey CR",
+      "code": "BD",
+      "location": "ELP_10"
+    },
+    {
+      "model": "MoCA Bridge",
+      "code": "UH",
+      "location": "ELP_11"
+    },
+    {
+      "model": "XiPMoCABridge",
+      "code": "UI",
+      "location": "ELP_11"
+    },
+    {
+      "model": "Wireless Joey Access Point",
+      "code": "XH",
+      "location": "ELP_11"
+    },
+    {
+      "model": "WAP 2.0",
+      "code": "XR",
+      "location": "ELP_11"
+    },
+    {
+      "model": "Multi",
+      "code": "!!",
+      "location": "ELP_11"
+    },
+    {
+      "model": "Nodata",
+      "code": "^^",
+      "location": "ELP_11"
+    },
+    {
+      "model": "NoRead",
+      "code": "??",
+      "location": "ELP_11"
+    }
+  ]
+}

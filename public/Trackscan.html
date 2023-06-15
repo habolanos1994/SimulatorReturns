@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+  <form id="trackForm" onsubmit="event.preventDefault(); fetchAPIResponse(trackNum.value)">
+    <label for="trackNum">Scan Track Number:</label><br>
+    <input type="text" id="trackNum" name="trackNum" autofocus><br>
+    <input type="submit" value="Submit">
+  </form>
+  <div id="result" style="font-size: xx-large; font-weight: bold;"></div>
+
+  <script>
+    // automatically submit form when user presses enter
+    document.getElementById('trackNum').addEventListener('keydown', function(event) {
+      if (event.code === 'Enter') {
+        event.preventDefault();
+        // directly call the fetchAPIResponse function
+        fetchAPIResponse(trackNum.value);
+      }
+    });
+
+    // Change result background based on API response
+    async function fetchAPIResponse(trackNumber) {
+      // replace with your API URL and fetch method
+      const response = await fetch('/Programs_NET_2/RCVX/api/RCV/GetPLCIDForTrackNum?tracknum1=' + trackNumber);
+      const result = await response.json();
+      
+      const resultDiv = document.getElementById('result');
+      resultDiv.textContent = result.plc_route_value;
+      resultDiv.setAttribute('data-status', result.plc_route_value);
+
+      // clear the input for the next scan
+      document.getElementById('trackNum').value = '';
+    }
+  </script>
+</body>
+</html>

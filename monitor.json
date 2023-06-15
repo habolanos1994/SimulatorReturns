@@ -1,0 +1,1 @@
+{"GetPLCIDForEquipment":{"requestor":"::ffff:10.63.38.56","request":"RBEXTD49677M","response":{"tnum":"5204","plc_route_value":"ELP_2"},"caller":"GetPLCIDForEquipment"},"PostSerialForReceiving":{"requestor":"::ffff:10.63.38.56","request":"WBEXKZG58BCC","response":"Success","caller":"PostSerialForReceiving"}}
